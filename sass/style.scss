@@ -184,13 +184,17 @@ nav.main{
 	h2{	color: $main;}
 	.btn.register{background-color:$main;}
 }
+.gdl{
+	h2{	color: $main;}
+	.btn.register{background-color:$main;}
+}
 .block{
 	border-left:1px solid;
 	padding-left: 25px;
 	padding-top: 10px;
 	margin: 0 auto;
 	margin-bottom: 80px;
-	width: 890px;
+	max-width: 890px;
 	display: block;
 	@each $color in $colors{
 		&.#{""+nth($color,1)}{
@@ -228,7 +232,7 @@ nav.main{
 	h3{text-align: center; font-size: 2.8rem;}
 }
 .btn.register{
-	width: 370px;
+	max-width: 370px;
 	height: 85px;
 	color: #fff;
 	font-size: 3rem;
