@@ -167,7 +167,7 @@
 <script src="https://code.jquery.com/jquery-2.2.2.min.js"></script>
 <script>
 	$(function(){
-		$('.register.btn').click(function(e){e.preventDefault()});
+		// $('.register.btn').click(function(e){e.preventDefault()});
 		$('nav.main a').click(function(e){
 			e.preventDefault();
 			$('nav.main a').removeClass('active');
@@ -181,7 +181,7 @@
 
 	function revealhome(){
 		$('.content section.active').removeClass('active').fadeOut('fast', function(){
-				$('.home').fadeIn('fast').addClass('active');
+			$('.home').fadeIn('fast').addClass('active');
 		});
 
 	}
@@ -189,10 +189,10 @@
 <script>
 	$( window ).resize(function(){
 		if ($(window).width() < 500) {
-   			$('.dots').html("...");
+			$('.dots').html("...");
 		}
 		else {
-		   $('.dots').html(".............................");
+			$('.dots').html(".............................");
 		}
 	});
 
