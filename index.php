@@ -55,13 +55,13 @@
 		<section class="home active">
 			<img src="img/graphic.png" class="graphic" alt="Hackea Tu Ciudad">
 			<div class="clear h100px"></div>
-			<p class="copy">¿Qué tal si pudiésemos aprovechar la tecnología para resolver problemáticas que nos afectan a todos? ¿Y si además esa fuese una opción para emprender y entrar al mundo laboral? <b><span class="imp">Hackea tu Ciudad</span></b> es una serie de charlas y talleres gratuitos que van a tu universidad sobre cómo puedes usar la tecnología para transformar tu comunidad.</p>
+			<p class="copy">&iquest;Qu&eacute; tal si pudi&eacute;semos aprovechar la tecnolog&iacute;a para resolver problem&aacute;ticas que nos afectan a todos? &iquest;Y si adem&aacute;s esa fuese una opci&oacute;n para emprender y entrar al mundo laboral? <b><span class="imp">Hackea tu Ciudad</span></b> es una serie de charlas y talleres gratuitos que van a tu universidad sobre c&oacute;mo puedes usar la tecnolog&iacute;a para transformar tu comunidad.</p>
 			<br>
-			<p class="copy"><span class="imp"><b>Hackea tu Ciudad</b></span> busca formar comunidades de estudiantes de varias disciplinas para que humanistas, activistas sociales, techies, y cualquier perfil puedan formar un equipo y juntos crear tecnología con enfoque social.</p>
+			<p class="copy"><span class="imp"><b>Hackea tu Ciudad</b></span> busca formar comunidades de estudiantes de varias disciplinas para que humanistas, activistas sociales, techies, y cualquier perfil puedan formar un equipo y juntos crear tecnolog&iacute;a con enfoque social.</p>
 			<br>
-			<p class="copy">Es un evento dirigido a personas interesados cómo se puede usar la tecnología para en el desarrollo social, nuevas formas de innovación cívica y ciudadanía o que sepan o quieran aprender a desarrollar tecnología.</p>
+			<p class="copy">Es un evento dirigido a personas interesados c&oacute;mo se puede usar la tecnolog&iacute;a para en el desarrollo social, nuevas formas de innovaci&oacute;n c&iacute;vica y ciudadan&iacute;a o que sepan o quieran aprender a desarrollar tecnolog&iacute;a.</p>
 			<br>
-			<p class="copy">Revisa las fechas y lugares para tu ciudad. Recuerda registrarte aquí mismo.</p>
+			<p class="copy">Revisa las fechas y lugares para tu ciudad. Recuerda registrarte aqu&iacute; mismo.</p>
 		</section>
 		<section class="mty">
 			<h2>Monterrey</h2>
@@ -79,15 +79,15 @@
 					<h4>Speed Talks</h4>
 					<ul class="">
 						<li>La tecnolog&iacute;a C&iacute;vica como industria emergente y modelo de negocio <span class="dots">.............................................................</span> 10:00 A.M.</li>
-						<li>De usuario a ciudadano: aplicaciones cívicas para el quehacer democrático<span class="dots"> ................................................. </span>10:30 A.M.</li>
-						<li>Casos de éxito en el mundo de la tecnología cívica <span class="dots"> .............................................................</span> 12:50 P.M.</li>
+						<li>De usuario a ciudadano: aplicaciones c&iacute;vicas para el quehacer democr&aacute;tico<span class="dots"> ................................................. </span>10:30 A.M.</li>
+						<li>Casos de &eacute;xito en el mundo de la tecnolog&iacute;a c&iacute;vica <span class="dots"> .............................................................</span> 12:50 P.M.</li>
 						<li>Civic Tech Fuck-Ups<span class="dots"> .........................................</span> 01:30 P.M.</li>
 					</ul>
 				</div>
 				<div class="block main">
 					<h4>Taller</h4>
 					<ul class="">
-						<li>Evitando el solucionismo: ¿Cómo sé si esta problemática puede resolverse a través de tecnología?<span class="dots">  ....................................</span> 10:00 A.M.</li>
+						<li>Evitando el solucionismo: &iquest;C&oacute;mo s&eacute; si esta problem&aacute;tica puede resolverse a trav&eacute;s de tecnolog&iacute;a?<span class="dots">  ....................................</span> 10:00 A.M.</li>
 					</ul>
 				</div>
 				<div class="block apink">
@@ -120,9 +120,9 @@
 				<div class="block main">
 					<h4>Speed Talks</h4>
 					<ul class="">
-						<li>Orientando el uso de las tecnologías emergentes a ámbitos sociales <span class="dots">....................................</span> 11:05 A.M.</li>
-						<li>Casos de éxito en el mundo de la tecnología cívica <span class="dots"> ................................................................</span> 11:25 A.M.</li>
-						<li>Evitando el solucionismo. ¿Esta problemática se puede resolver con tecnología?<span class="dots"> .................</span> 11:45 A.M.</li>
+						<li>Orientando el uso de las tecnolog&iacute;as emergentes a &aacute;mbitos sociales <span class="dots">....................................</span> 11:05 A.M.</li>
+						<li>Casos de &eacute;xito en el mundo de la tecnolog&iacute;a c&iacute;vica <span class="dots"> ................................................................</span> 11:25 A.M.</li>
+						<li>Evitando el solucionismo. &iquest;Esta problem&aacute;tica se puede resolver con tecnolog&iacute;a?<span class="dots"> .................</span> 11:45 A.M.</li>
 					</ul>
 				</div>
 
@@ -131,9 +131,9 @@
 				</div>
 
 					<div class="block main">
-						<h4>Presentación de problematica</h4>
+						<h4>Presentaci&oacute;n de problematica</h4>
 							<ul class="">
-								<li>Instituto Tecnológico del agua <span class="dots">.........................</span>12:20-12:50 P.M.</li>
+								<li>Instituto Tecnol&oacute;gico del agua <span class="dots">.........................</span>12:20-12:50 P.M.</li>
 							</ul>
 					</div>
 				<div class="block main">
@@ -141,8 +141,8 @@
 					<ul class="">
 						<li>Mapeo de datos con cartoDB: <span class="dots">................................ </span> 13:00 P.M.</li>
 						<li>Ponle sensores a tu diseño: uso de arduino <span class="dots"> .................</span> 13:00 P.M.</li>
-						<li>Prototipado Rápido<span class="dots"> .........................................</span> 13:00 P.M.</li>
-						<li>Programación 101 con YouthSpark<span class="dots"> ............................</span> 13:00 P.M.</li>
+						<li>Prototipado R&aacute;pido<span class="dots"> .........................................</span> 13:00 P.M.</li>
+						<li>Programaci&oacute;n 101 con YouthSpark<span class="dots"> ............................</span> 13:00 P.M.</li>
 					</ul>
 				</div>
 			</section>
