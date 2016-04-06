@@ -65,8 +65,8 @@
 		</section>
 		<section class="mty">
 			<h2>Monterrey</h2>
-			<h3 class="sub"><a href="#">9 de abril</a> | <a href="#">@FIME, UANL</a> | San Nicol&aacute;s, N.L.</h3>
-			<a href="#" class="waves-effect waves-light register btn">Reg&iacute;strate aqu&iacute;</a>
+			<h3 class="sub"><a href="#">9 de abril</a> | <a href="https://www.google.com/maps/place/Facultad+de+Ingenier%C3%ADa+Mec%C3%A1nica+y+El%C3%A9ctrica/@25.7251125,-100.3134306,15z/data=!4m2!3m1!1s0x0:0x29bfce892069a43d?sa=X&ved=0ahUKEwi_5p65vvrLAhUI5WMKHYgeA90Q_BIIfTAN" target="_blank">@FIME, UANL</a> | San Nicol&aacute;s, N.L.</h3>
+			<a href="https://www.eventbrite.com/e/hackea-tu-ciudad-20-mty-tickets-24294398199?utm_content=buffer062e4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer" class="waves-effect waves-light register btn" target="_blank">Reg&iacute;strate aqu&iacute;</a>
 			<nav class="tabs u-full-width">
 				<ul class="cf u-full-width">
 					<li class="active"><a href="#">Agenda</a></li>
